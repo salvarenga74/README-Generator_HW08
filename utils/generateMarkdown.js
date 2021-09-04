@@ -80,7 +80,7 @@ Distributed under the ${renderLicenseSelection(response)}
 Any contributions you make are **greatly appreciated**, 
 please follow these guidelines.
 
-``${response.contribution}``
+${response.contribution}
 
 
 ## Tests
