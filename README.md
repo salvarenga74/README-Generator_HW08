@@ -5,7 +5,9 @@
 
 ## Description
 
-In this application I created a tool to facilitate the production of a high quality ``README.md`` file that can be added any project.<br /> <br />The finished application was used used to create the basis of this very README file.
+n this application I created a tool to facilitate the production of a high quality ``README.md`` file that can be added any project.<br /> <br />The finished application was used used to create the basis of this very README file.
+
+Watch a Walkthrough Video: [READMEGenerator.video](https://drive.google.com/file/d/1if3SscecNppH3zyVHMXyFa_naWKuoHVu/view)
 
 <summary>Table of Contents</summary>
   <ol>
